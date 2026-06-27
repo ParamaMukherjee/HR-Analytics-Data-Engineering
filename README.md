@@ -10,7 +10,7 @@ The pipeline ingests raw HR datasets, performs data cleansing and validation, ap
 
 # 🏗️ Project Architecture
 
-![Project Architecture](architecture/HR_Data_Architecture.png)
+![Project Architecture](architecture/HR_Data_Architecture.drawio%20(1).png)
 
 ---
 
